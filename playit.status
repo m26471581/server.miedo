@@ -1,84 +1,145 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730051876900 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1730404722634 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730051879954 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404725705 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730051883032 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404728787 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730051886100 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404731853 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730051889166 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404734915 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730051904260 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404737975 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730051907337 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404741042 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730051910406 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404744131 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730051913464 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404747195 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730051916532 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404750264 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730051919603 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404753334 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730051922681 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404756400 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730051925744 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404759459 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730051928805 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404762525 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730051931864 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730404765618 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730404768688 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730404771766 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730404774945 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730404778024 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730404781090 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730404784162 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730404787227 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730404790288 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730404793477 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730404796571 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730404799628 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730404802706 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730404805772 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730404808832 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
