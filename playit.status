@@ -1162,3 +1162,9 @@ greater-shots.gl.at.ply.gg:3101 => 127.0.0.1:3101 (proto: Udp, port count: 1)
 TUNNELS
 green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 greater-shots.gl.at.ply.gg:3101 => 127.0.0.1:3101 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1730767111982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+green-loc.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+greater-shots.gl.at.ply.gg:3101 => 127.0.0.1:3101 (proto: Udp, port count: 1)
